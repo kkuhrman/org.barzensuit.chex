@@ -18,9 +18,9 @@ Part of the Barzensuit Project. Provides very basic environment configuration ch
 
 # Implementation
 
-Many of the dependent libraries use C and assembler language for purposes of speed and efficiency, which are essential to RTC.
+bzenchex is the simplest program under the Barzensuit Project. It is an adpation of Gnu Hello (https://www.gnu.org/software/hello/), which models Gnu coding standards (https://www.gnu.org/prep/standards/), Gnu maintainer practices (https://www.gnu.org/prep/maintain/) and otherwise an excellent introduction to autotools and the Gnu Build System (https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html).
 
-C++ extensions can be compiled by setting teh --enable_cxx flag.
+bzenchex is mainly written in C but C++ extensions can be compiled by setting the --enable_cxx flag.
 
 # Installation
 
